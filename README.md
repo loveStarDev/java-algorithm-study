@@ -1,3 +1,27 @@
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=320&section=header&text=Algo_Java&fontSize=90&fontAlignY=35&desc=☕%20자바를%20통한%20알고리즘%20스터디!&descAlignY=60)
+  
+  </div>
+ 
+ 
+ ## 👋 **Member**
+
+<table align="center" style="font-weight : bold">
+        <td align="center">
+            <a href="https://github.com/Jueundev">                 
+                <img alt="최주은" src="https://avatars.githubusercontent.com/Jueundev" width="200" />            
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">최주은</td>
+    </tr>
+</table>
+
+<details markdown="1">
+<summary><strong> 🍭 이전 스터디 기록 (2021/08/04 ~ 2021/10/01)</strong></summary> 
+
 # ⚙ JAVA Algorithm Study (08/04~)
 자바를 활용한 알고리즘 스터디 Repo   
   
@@ -15,7 +39,7 @@
  - 리뷰어는 팀원을 위한 리뷰를 준비하고 각 문제에 대해서 설명한다
  - 각자 질문 사항은 리뷰가 끝난 후, 실시한다
 
-<!-- ## 👍 ** 문제집 **  
+## 👍 ** 문제집 **  
 |주차|기간|내용|리뷰어|
 |:---:|:---:|:---|:---:|
 |1|21-08-04~21-08-11|[1. Programmers_Greedy](https://programmers.co.kr/learn/courses/30/lessons/42862)<br>[2. BOJ_Stack](https://www.acmicpc.net/problem/2504)<br>[3. BOJ_Queue](https://www.acmicpc.net/problem/1966) | - |
@@ -27,11 +51,7 @@
 |7|21-09-15~21-09-21|[1. BOJ_쿼드트리](https://www.acmicpc.net/problem/1992)<br>[2. BOJ_숫자판점프](https://www.acmicpc.net/problem/2210)<br>[3. BOJ_별찍기11](https://www.acmicpc.net/problem/2448)|1. 최주은<br>2. 최두나<br>3. 김형우|
 |8|21-09-29~21-09-28|[1. BOJ_구호물자](https://www.acmicpc.net/problem/11581)<br>[2. BOJ_탈출](https://www.acmicpc.net/problem/3055)<br>[3. Programmers_2019카카오개발자겨울인턴십 크레인인형뽑기게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|1. 최지우<br>2. 이수호<br>3. 이보연|
 |9|21-09-29~21-09-28|[1. BOJ_불](https://www.acmicpc.net/problem/4179)<br>[2. Programmers_찾아라프로그래밍마에스터_게임맵최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)<br>[3. Programmers_2021KAKAOBLINDRECRUITMENT_합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|1. 최두나<br>2. 최주은<br>3. 김형우|
- -->
- 
- <br>
- <br>
- <br>
+</details>
  
  ## 💡 Study Diary 주은  
 
