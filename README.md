@@ -28,3 +28,55 @@
 |8|21-09-29~21-09-28|[1. BOJ_구호물자](https://www.acmicpc.net/problem/11581)<br>[2. BOJ_탈출](https://www.acmicpc.net/problem/3055)<br>[3. Programmers_2019카카오개발자겨울인턴십 크레인인형뽑기게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|1. 최지우<br>2. 이수호<br>3. 이보연|
 |9|21-09-29~21-09-28|[1. BOJ_불](https://www.acmicpc.net/problem/4179)<br>[2. Programmers_찾아라프로그래밍마에스터_게임맵최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)<br>[3. Programmers_2021KAKAOBLINDRECRUITMENT_합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|1. 최두나<br>2. 최주은<br>3. 김형우|
  -->
+ 
+ <br>
+ <br>
+ <br>
+ 
+ ## 💡 Study Diary 주은  
+
+### Updates
+- 기존의 Summary는 어떤 알고리즘이 약한지 알 수 없었으므로 구조를 변경하였습니다.
+- 바로가기 버튼을 만들어 git repository에 작성한 파일에 바로 접근할 수 있도록 수정하였습니다.
+
+### Todo
+- 스터디 내용 요약집 업로드 하면서 정리하기
+- Git 제외한 기술 블로그 또는 서술 내용 작성하기
+- 내용 요약해서 남들에게 말 할 수 있도록 정리하기
+
+### Marking Rule
+- ○ : 다른 참고 자료를 사용하지 않고, 적정 시간내에 풀이한 문제
+- △ : 참고 자료 또는 오랜 시간내에 풀이를 하여 재검토가 필요한 문제 
+- ✕ : 제한 시간안에 풀이를 끝내지 못했거나 시도조차 못한 
+
+
+### Summary ▼
+<details markdown="1">
+<summary><strong> 1주차🍂 (2021/11/12 ~ 2021/11/18)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 바로가기 | 풀이날짜 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :---: |
+|골드5|[[BOJ_14395_4연산](https://www.acmicpc.net/problem/14395)]|그래프 이론, 그래프 탐색, 너비 우선 탐색| △ |[클릭](./BOJ/14395_4연산.java)| 2021-11-11 |
+|골드5|[[BOJ_1753_최단경로](https://www.acmicpc.net/problem/1753)]|그래프 이론, 다익스트라| ✕ |[클릭](./BOJ/1753_최단경로.java)||
+|골드5|[[BOJ_9663_N-Queen](https://www.acmicpc.net/problem/9663)]|브루트포스 알고리즘| ✕ |[클릭](./BOJ/9663_N-Queen.java)||
+
+<br>
+</details>
+
+<!--  임시저장
+<details markdown="1">
+<summary><strong> 2주차🍂 (2021/11/18 ~ 2021/11/24)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 바로가기 | 풀이날짜 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :---: |
+|골드5|[[BOJ_14395_4연산](https://www.acmicpc.net/problem/14395)]|그래프 이론, 그래프 탐색, 너비 우선 탐색| ○△✕ |[클릭](./BOJ/14395_4연산.java)| 2021-11-11 |
+|골드5|[[BOJ_1753_최단경로](https://www.acmicpc.net/problem/1753)]|그래프 이론, 다익스트라| ✕ |[클릭](./BOJ/1753_최단경로.java)||
+|골드5|[[BOJ_9663_N-Queen](https://www.acmicpc.net/problem/9663)]|브루트포스 알고리즘| ✕ |[클릭](./BOJ/9663_N-Queen.java)||
+
+<br>
+</details> 
+-->
