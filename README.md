@@ -92,9 +92,7 @@
 
 | 레벨 |     문제     |                             내용                             | 수행 | 바로가기 | 풀이날짜 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :---: |
-|D1|[[swexpert_2072_홀수만더하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE&problemTitle=%ED%99%80%EC%88%98%EB%A7%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)]|배열, 입출력, 단순탐색| ○ |[클릭](./swexpert/2072_홀수만더하기.java)| 2021-11-29 |
-|골드5|[[BOJ_1753_최단경로](https://www.acmicpc.net/problem/1753)]|그래프 이론, 다익스트라| ✕ |[클릭](./BOJ/1753_최단경로.java)||
-|골드5|[[BOJ_9663_N-Queen](https://www.acmicpc.net/problem/9663)]|브루트포스 알고리즘| ✕ |[클릭](./BOJ/9663_N-Queen.java)||
+|D1|[[]()]|||[클릭](./swexpert/2072_홀수만더하기.java)||
 
 <br>
 </details> 
@@ -108,7 +106,7 @@
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :---: |
 |D1|[[swexpert_2072_홀수만더하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE&problemTitle=%ED%99%80%EC%88%98%EB%A7%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)]|배열, 입출력, 단순탐색| ○ |[클릭](./SWexpert/2072_홀수만더하기.java)| 2021-11-29 |
 |D3|[[swexpert_1206_View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1)]|시뮬레이션| ○  |[클릭](./SWexpert/1206_View.java)| 2021-12-01 |
-|골드5|[[BOJ_9663_N-Queen](https://www.acmicpc.net/problem/9663)]|브루트포스 알고리즘| ✕ |[클릭](./SWexpert/9663_N-Queen.java)||
+|-|[[swexpert_1949_등산로조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1)]|시뮬레이션, DP| ✕ |[클릭](./SWexpert/1949_등산로조성.java)| 2021-12-01 |
 
 <br>
 </details> 
