@@ -93,6 +93,7 @@
 | 레벨 |     문제     |                             내용                             | 수행 | 바로가기 | 풀이날짜 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :---: |
 |모의 SW 역량테스트|[[swexpert_2112_보호필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&categoryId=AV5V1SYKAaUDFAWu&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1#;return%20false;)]|완전탐색, DP, 시뮬레이션| ○ |[클릭](./SWexpert/2112_보호필름.java)| 2021-12-02 |
+|D2|[[swexpert_1204_최빈수구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)]|시뮬레이션| ○ |[클릭](./SWexpert/2112_보호필름.java)| 2021-12-02 |
 
 <br>
 </details> 
