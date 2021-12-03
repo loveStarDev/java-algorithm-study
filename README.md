@@ -110,6 +110,7 @@
 |D3|[[swexpert_1206_View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1)]|시뮬레이션| ○  |[클릭](./SWexpert/1206_View.java)| 2021-12-01 |
 |모의 SW 역량테스트|[[swexpert_1949_등산로조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=JAVA&select-1=&pageSize=10&pageIndex=1)]|시뮬레이션, DP| ○ |[클릭](./SWexpert/1949_등산로조성.java)| 2021-12-02 |
 |모의 SW 역량테스트|[[swexpert_1244_최대상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)]|완전탐색, 시뮬레이션, DFS| ○ |[클릭](./SWexpert/1244_최대상금.java)| 2021-12-03 |
+|모의 SW 역량테스트|[[swexpert_1952_수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)]|완전탐색, 시뮬레이션, DFS| ○ |[클릭](./SWexpert/1952_수영장.java)| 2021-12-03 |
 
 <br>
 </details> 
